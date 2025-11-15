@@ -1,0 +1,13 @@
+Product name,Refrigerated,minimum package quantity, populatiry score, price, size score 
+Pingui, True, 4, 10, 2, 2
+Maxi King, True, 3, 1, 2, 4
+Choco Fresh, True, 5, 1, 2, 2
+Pingui Sachertorte, True, 4, 1, 2, 2
+Paradiso, True, 4, 1, 2, 1
+Milchschnitte, True, 4, 1, 2, 1
+Riegel, False, 10, 1, 2, 4
+Schokobons, False, 20, 1, 2, 10
+Bueno, False, 6, 1, 2, 3
+Happy Hippo, False, 5, 1, 2, 5
+Cards, False, 5, 1, 2, 4
+Überraschung, False, 1, 10, 2, 3
