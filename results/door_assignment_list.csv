@@ -1,0 +1,25 @@
+Door Number,Item1,Item2,Item3,Refrigerated,Special Day
+1,Pingui,Choco Fresh,Maxi King,True,first advent 
+2,Riegel,Schokobons,None,False,
+3,Bueno,Cards,None,False,
+4,Riegel,Schokobons,None,False,
+5,Riegel,Bueno,None,False,
+6,Überraschung,Cards,Nikolaus,False,Nikolaus
+7,Choco Fresh,Pingui,Maxi King,True,second advent
+8,Happy Hippo,,None,False,
+9,Riegel,Cards,None,False,
+10,Happy Hippo,,None,False,
+11,Riegel,Schokobons,None,False,
+12,Choco Fresh,Pingui,,True,halftime
+13,Riegel,Bueno,None,False,
+14,Choco Fresh,Maxi King,,True,third advent
+15,Cards,Bueno,None,False,
+16,Riegel,Schokobons,None,False,
+17,Happy Hippo,Überraschung,None,False,
+18,Riegel,Schokobons,None,False,
+19,Bueno,Happy Hippo,None,False,
+20,Riegel,,None,False,
+21,Choco Fresh,Pingui,,True,fourth advent
+22,Riegel,Bueno,None,False,
+23,Cards,,None,False,
+24,Überraschung,Happy Hippo,Schokobons,False,christmas
