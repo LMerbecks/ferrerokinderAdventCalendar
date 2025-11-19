@@ -1,0 +1,25 @@
+Door Number,Items,Refrigerated,Special Day
+1,"Pingui,Choco Fresh,Maxi King",True,first advent 
+2,"Duplo,None,Hazelnut Kugel",False
+3,"Bueno,None,Crispy Bits Kugel",False,
+4,"Duplo,Hazelnut Kugel,Crispy Bits Kugel",False,
+5,"Cards,None,Crispy Bits Kugel",False,
+6,"Nikolaus,Überraschung,None",False,Nikolaus
+7,"Choco Fresh,Pingui,Maxi King",True,second advent
+8,"Duplo,Hazelnut Kugel,Crispy Bits Kugel",False,
+9,"None,Bueno,Hazelnut Kugel",False,
+10,"None,Duplo,Crispy Bits Kugel",False,
+11,"Bueno,Hazelnut Kugel,Crispy Bits Kugel",False,
+12,"Choco Fresh,Pingui,None",True,halftime
+13,"Hazelnut Kugel,Duplo,Happy Hippo",False,
+14,"Choco Fresh,Maxi King,None",True,third advent
+15,"Cards,Bueno,Hazelnut Kugel",False,
+16,"Duplo,Crispy Bits Kugel,Cards",False,
+17,"Bueno,Hazelnut Kugel,Happy Hippo",False,
+18,"Duplo,Happy Hippo,Crispy Bits Kugel",False,
+19,"Duplo,Crispy Bits Kugel,Hazelnut Kugel",False,
+20,"Crispy Bits Kugel,Happy Hippo,Bueno",False,
+21,"Choco Fresh,Pingui,None",True,fourth advent
+22,"Duplo,Cards,Hazelnut Kugel",False,
+23,"Duplo,Crispy Bits Kugel,Happy Hippo",False,
+24,"Hazelnut Kugel,Überraschung,Cards",False,christmas
